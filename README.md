@@ -1,1 +1,1 @@
-# Rasila.github.io
+This project focuses on analyzing and forecasting the air quality across various Indian states before and after the COVID-19 lockdown using Python. The aim is to provide insights into how the lockdown measures impacted air quality, leveraging data science techniques and machine learning models.
